@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo para el título */
+h1 {
+    background-color: #4c74af;  
+    color: rgb(15, 14, 14);
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Contenido del cuerpo */
+.contenido {
+    margin: 40px;  
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Pie de página */
+footer {
+    background-color: #333; 
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
